@@ -1,0 +1,5 @@
+Instructions for use:
+
+1. From the command line, call `python main.py -n learnRate`
+   This will perform the file read and pass the data to the
+   perceptron.
